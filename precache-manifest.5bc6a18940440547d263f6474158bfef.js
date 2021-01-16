@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6cd575d3602ea65d96db",
+    "revision": "45aeadb4b233d74be46c",
     "url": "/DigitalArtShop/static/css/main.3aab5216.chunk.css"
   },
   {
-    "revision": "6cd575d3602ea65d96db",
-    "url": "/DigitalArtShop/static/js/main.6cd575d3.chunk.js"
+    "revision": "45aeadb4b233d74be46c",
+    "url": "/DigitalArtShop/static/js/main.45aeadb4.chunk.js"
   },
   {
     "revision": "82bf1f28914ca1bb46dd",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/DigitalArtShop/static/js/2.4c9e74fe.chunk.js"
   },
   {
-    "revision": "e94f9ec79f00845b020a13c2e52fba3a",
+    "revision": "2972cbdfdae665dedf60556f93a73917",
     "url": "/DigitalArtShop/index.html"
   }
 ];

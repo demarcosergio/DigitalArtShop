@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DigitalArtShop/precache-manifest.3aaddc7b26e77b9fb4b1aadc507127a3.js"
+  "/DigitalArtShop/precache-manifest.5bc6a18940440547d263f6474158bfef.js"
 );
 
 workbox.clientsClaim();
