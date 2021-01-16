@@ -1,13 +1,13 @@
 {
-  "main.css": "/DigitalArtShop/static/css/main.3aab5216.chunk.css",
-  "main.js": "/DigitalArtShop/static/js/main.45aeadb4.chunk.js",
-  "main.js.map": "/DigitalArtShop/static/js/main.45aeadb4.chunk.js.map",
-  "runtime~main.js": "/DigitalArtShop/static/js/runtime~main.82bf1f28.js",
-  "runtime~main.js.map": "/DigitalArtShop/static/js/runtime~main.82bf1f28.js.map",
-  "static/js/2.4c9e74fe.chunk.js": "/DigitalArtShop/static/js/2.4c9e74fe.chunk.js",
-  "static/js/2.4c9e74fe.chunk.js.map": "/DigitalArtShop/static/js/2.4c9e74fe.chunk.js.map",
-  "index.html": "/DigitalArtShop/index.html",
-  "precache-manifest.5bc6a18940440547d263f6474158bfef.js": "/DigitalArtShop/precache-manifest.5bc6a18940440547d263f6474158bfef.js",
-  "service-worker.js": "/DigitalArtShop/service-worker.js",
-  "static/css/main.3aab5216.chunk.css.map": "/DigitalArtShop/static/css/main.3aab5216.chunk.css.map"
+  "main.css": "/products/static/css/main.3aab5216.chunk.css",
+  "main.js": "/products/static/js/main.1a9c92f6.chunk.js",
+  "main.js.map": "/products/static/js/main.1a9c92f6.chunk.js.map",
+  "runtime~main.js": "/products/static/js/runtime~main.a673eb19.js",
+  "runtime~main.js.map": "/products/static/js/runtime~main.a673eb19.js.map",
+  "static/js/2.4c9e74fe.chunk.js": "/products/static/js/2.4c9e74fe.chunk.js",
+  "static/js/2.4c9e74fe.chunk.js.map": "/products/static/js/2.4c9e74fe.chunk.js.map",
+  "index.html": "/products/index.html",
+  "precache-manifest.85b172f9a90fc5626e3bbfb77736a01b.js": "/products/precache-manifest.85b172f9a90fc5626e3bbfb77736a01b.js",
+  "service-worker.js": "/products/service-worker.js",
+  "static/css/main.3aab5216.chunk.css.map": "/products/static/css/main.3aab5216.chunk.css.map"
 }
